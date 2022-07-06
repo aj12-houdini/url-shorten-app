@@ -335,7 +335,7 @@ header {
   }
   .input-container {
     background-color: $veryDarkViolet;
-    background-image: url("images/bg-shorten-desktop.svg");
+    background-image: url("css/images/bg-shorten-desktop.svg");
     @include bg-input();
     @include flex-items();
     width: 75%;
@@ -478,7 +478,7 @@ header {
     .input-container {
       width: 85%;
       padding: 40px 0px;
-      background-image: url("images/bg-shorten-mobile.svg");
+      background-image: url("css/images/bg-shorten-mobile.svg");
     }
     .form {
       text-align: center;
@@ -548,7 +548,7 @@ header {
 .boost {
   padding: 5%;
   text-align: center;
-  background-image: url("images/bg-boost-desktop.svg");
+  background-image: url("css/images/bg-boost-desktop.svg");
   @include bg-input();
 
   h3 {

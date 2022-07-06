@@ -261,7 +261,7 @@ header .nav-buttons button:last-child:hover {
 }
 .url-shorten .input-container {
   background-color: hsl(257deg, 27%, 26%);
-  background-image: url("/images/bg-shorten-desktop.svg");
+  background-image: url("css/images/bg-shorten-desktop.svg");
   background-color: hsl(257deg, 27%, 26%);
   background-repeat: no-repeat;
   background-size: cover;
@@ -422,7 +422,7 @@ header .nav-buttons button:last-child:hover {
   .url-shorten .input-container {
     width: 85%;
     padding: 40px 0px;
-    background-image: url("/images/bg-shorten-mobile.svg");
+    background-image: url("css/images/bg-shorten-mobile.svg");
   }
   .url-shorten .form {
     text-align: center;
@@ -505,7 +505,7 @@ header .nav-buttons button:last-child:hover {
 .boost {
   padding: 5%;
   text-align: center;
-  background-image: url("/images/bg-boost-desktop.svg");
+  background-image: url("css/images/bg-boost-desktop.svg");
   background-color: hsl(257deg, 27%, 26%);
   background-repeat: no-repeat;
   background-size: cover;
